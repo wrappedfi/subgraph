@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Wrapped Tokens on Ethereum
-repository: https://github.com/taarushv/wrapped-subgraph
+description: Subgraph implementation to query information about wrapped assets provided by wrapped.com
+repository: https://github.com/wrapped/subgraph
 schema:
   file: ./schema.graphql
 dataSources:
